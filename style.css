@@ -1,0 +1,28 @@
+body{
+    background-color: #FDEBD0;
+}
+
+header{
+    display: flex;
+}
+
+img{
+    border-radius: 50%;
+}
+
+#A-h1{
+    margin-left: 15%;
+    margin-top: 5%;
+    font-size: xxx-large;
+}
+
+h3, #B-h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5%;
+}
